@@ -1,0 +1,8 @@
+{
+  "name": "LoveWall - Couples Interactive Space",
+  "description": "A romantic shared digital space for couples featuring interactive sticky notes, live stickers, voice messages, location sharing, and a Gemini-powered sweet note assistant.",
+  "requestFramePermissions": [
+    "microphone",
+    "geolocation"
+  ]
+}
